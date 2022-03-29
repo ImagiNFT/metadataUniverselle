@@ -1,0 +1,8 @@
+{
+  "name": "Rene Makela Collection",
+  "description": "René Mäkelä is a spanish artist. His work has an influence on pop culture and street art. He has painted for singer Madonna, model Cara Delevigne, sports stars Cam Newton (NFL), Austin Rivers (NBA), Matt Kemp and Manny Machado (MLB), Antoine Griezmann (LFP) and brands such as Ron Barceló and Porsche. Pope Francis relied on his work for his foundation in 2019.",
+  "image": "https://raw.githubusercontent.com/ImagiNFT/metadata/main/assets/rene.jpeg",
+  "external_link": "https://universelle.io/makela-collection",
+  "seller_fee_basis_points": 1000,
+  "fee_recipient": "0xd3299cc47F1aFb07E06BbF9c812cC954ed75e6Cc"
+}
