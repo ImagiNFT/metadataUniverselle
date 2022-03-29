@@ -1,8 +1,8 @@
 {
   "name": "Universelle Genesis Collection",
   "description": "The Genesis collection will be a privileged pass to all our events, software developments and collaborations. - Lifetime access to all our events (with associated prizes). - Access to betas and developed software at no cost. - Whitelist and Airdrops of projects developed in collaboration with other brands and creators.After the launch of the Genesis and the first event the following events will be purchased separately as a ticket that will give access to that event exclusively with the airdrop or prizes associated with it.",
-  "image": "",
-  "external_link": "",
+  "image": "https://github.com/ImagiNFT/metadataUniverselle/raw/master/genesis/assets/UniverselleGenesis-01.png",
+  "external_link": "https://universelle.io/en/collections/Universelle",
   "seller_fee_basis_points": 500,
   "fee_recipient": "0xd3299cc47F1aFb07E06BbF9c812cC954ed75e6Cc"
 }
