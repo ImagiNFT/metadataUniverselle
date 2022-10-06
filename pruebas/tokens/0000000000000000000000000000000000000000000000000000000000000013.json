@@ -1,0 +1,41 @@
+{
+    "version":"pruebas",
+    "id": "0000000000000000000000000000000000000000000000000000000000000009",
+    "name":"NFT AT2 RAINBOW X METALEMISSIVE",
+    "description": "# MetalEmissive Collection\nMetalEmissive is an artistic series of 3D NFTs designed by [**Universelle**](https://universelle.io/en) for the [**NOX** brand](https://noxsport.es), based on the rackets of international paddle players Miguel Lamperti and Agustín Tapia. Where his inspiration is born from the idealization of a medal carved in paddle rackets, culminating with an iconographic transgression of colors, reflections, light emissions and materials that make dream that those rackets could reach real life.\n\nThe common thread lies in light **emissions** and **metallic** materials, impossible to integrate both in this support in the real world, and so linked to current styles and trends within the Metaverse.",
+    "image":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_RAINBOW_X_METALEMISSIVE.jpg",
+    "image_url":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_RAINBOW_X_METALEMISSIVE.jpg",
+    "animation_url":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_RAINBOW_X_METALEMISSIVE.mp4",
+    "external_url": "https://nft.noxsport.es",
+    "background_color":"fefefe",
+    "attributes":[
+        {
+            "trait_type":"Edition",
+            "value": "1/1"
+        },
+        {
+            "trait_type": "Discount",
+            "value": "10% off for life in NOX products (in NOX online store)"
+        },
+        {
+            "trait_type": "Unique Claim",
+            "value": "Gift of physical racket AT2 GENIUS LTD 2023"
+        },
+        {
+            "trait_type": "Unique Claim",
+            "value": "Gift of Serial NFT AT2 GENIUS LTD 2023"
+        },
+        {
+            "trait_type": "Unique Claim",
+            "value": "Gift of A. Tapia Decentraland Wearable"
+        },
+        {
+            "trait_type": "Unique Claim",
+            "value": "Double Invitation to the World Padel Tour Barcelona (December 2022)"
+        },
+        {
+            "trait_type": "Unique Claim",
+            "value": "Delivery in person of the racket AT2 GENIUS LTD 2023 by Agustín Tapia"
+        }
+    ]
+}
