@@ -1,11 +1,11 @@
 {
     "version":"pruebas",
-    "id": "0000000000000000000000000000000000000000000000000000000000000005",
-    "name":"NFT AT2 GOLD METALEMISSIVE",
+    "id": "5",
+    "name":"NFT AT2 MIRROR METALEMISSIVE",
     "description": " MetalEmissive is an artistic series of 3D NFTs designed by [**Universelle**](https://universelle.io/en) for the [**NOX** brand](https://noxsport.es), based on the rackets of international paddle players Miguel Lamperti and Agustín Tapia. Where his inspiration is born from the idealization of a medal carved in paddle rackets, culminating with an iconographic transgression of colors, reflections, light emissions and materials that make dream that those rackets could reach real life.\n\nThe common thread lies in light **emissions** and **metallic** materials, impossible to integrate both in this support in the real world, and so linked to current styles and trends within the Metaverse.",
-    "image":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_GOLD_METALEMISSIVE.jpg",
-    "image_url":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_GOLD_METALEMISSIVE.jpg",
-    "animation_url":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_GOLD_METALEMISSIVE.mp4",
+    "image":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_MIRROR_METALEMISSIVE.jpg",
+    "image_url":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_MIRROR_METALEMISSIVE.jpg",
+    "animation_url":"https://arweave.net/7GV5VVwhPDimpA1QZXiJXlfwQfEz6l0EDlbF1EqinMo/AT2/AT2/NFT_AT2_MIRROR_METALEMISSIVE.mp4",
     "external_url": "https://nft.noxsport.es",
     "background_color":"fefefe",
     "attributes":[
